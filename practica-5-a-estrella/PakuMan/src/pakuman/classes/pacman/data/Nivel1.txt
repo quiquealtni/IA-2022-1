@@ -1,0 +1,27 @@
+ppppppppppppppppppppp
+p.........p.........p
+p.ppp.ppp.p.ppp.ppp.p
+pop p.p p.p.p p.p pop
+p.ppp.ppp.p.ppp.ppp.p
+p...................p
+p.p-p.p.p---p.p.p-p.p
+p.p-p.p.p-T-p.p.p-p.p
+p.....p...p...p.....p
+ppppp.ppp p ppp.ppppp
+    p.p       p.p____
+    p.p pp pp p.p____
+ppppp.p p F p p.ppppp
+     .  p   p  ._____
+ppppp.p ppppp p.ppppp
+    p.p       p.p____
+    p.p p---p p.p____
+ppppp.p p-T-p p.ppppp
+p.........p.........p
+p.ppp.ppp.p.ppp.ppp.p
+po..p.....C.....p..op
+p-p.p.p.p---p.p.p.p-p
+p-p.p.p.p-T-p.p.p.p-p
+p.....p...p...p.....p
+p.ppppppp.p.ppppppp.p
+p...................p
+ppppppppppppppppppppp
